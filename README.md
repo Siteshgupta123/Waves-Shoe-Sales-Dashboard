@@ -46,6 +46,6 @@ ________________________________________________________________________________
 - Add forecasting models for predictive analysis.
 __________________________________________________________________________________________________
 ✨ About Me
-Created with ❤️ by Sitesh Gupta
-Aspiring Data Analyst | ML Enthusiast | Dashboard Designer
+- Created with ❤️ by Sitesh Gupta
+- Aspiring Data Analyst | ML Enthusiast | Dashboard Designer
 __________________________________________________________________________________________________
