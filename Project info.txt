@@ -1,0 +1,35 @@
+📜Project Info - Waves Shoes Sales Dashboard
+Project Title: Waves Shoes Sales Dashboard
+Created by: Sitesh Gupta
+Year: 2025
+---------------------------------------------------------------------------------------------------
+🎯Objective:
+To build an interactive sales dashboard for a fictional shoe brand 'Waves Shoes',
+providing valuable business insights such as sales trends, top-performing states, category-wise analysis, and product performance.
+---------------------------------------------------------------------------------------------------
+🗂️Dataset:
+- **Format**: CSV
+- **Columns**: State, City, Customer Name, Order Type, Category, Product, Sales Amount, Quantity, Transaction Count, Cost
+- **Period Covered**: 1 Financial Year (hypothetical)
+- **Confidentiality**: Data is simulated/fake for academic/portfolio purposes.
+---------------------------------------------------------------------------------------------------
+⚡Key Features:
+- Live KPIs for major business metrics.
+- Dynamic filters for Category, State, Order Type, and City.
+- Geo-mapping of Sales by location.
+- Clear month-wise trend analysis.
+- Top product and top state analysis.
+- Fully responsive and visually styled using Looker Studio's advanced options.
+---------------------------------------------------------------------------------------------------
+🛠️ Tools Used:
+- Google Looker Studio
+- Google Sheets (for initial data cleaning)
+- Canva (for custom logo/icon creation)
+---------------------------------------------------------------------------------------------------
+🔮Future Enhancements:
+- Adding Customer Segmentation charts.
+- Monthly Revenue and Profit Forecasting.
+- Connecting with a live SQL database for real-time analysis.
+- Dashboard Deployment and embedding into a personal portfolio website.
+---------------------------------------------------------------------------------------------------
+# End of Project Info
