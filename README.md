@@ -1,6 +1,9 @@
 # 📊Waves Shoes Sales Dashboard
 
-**Waves Shoes Sales Dashboard:**
+https://github.com/user-attachments/assets/71bc73e9-418f-49d7-bb11-050279fbcccf
+
+
+
 It's An interactive sales dashboard created using Google Looker Studio to analyze the performance of the Waves Shoes brand across different states, categories, and customer segments.
 Built with a clean UI and insightful KPIs for actionable business intelligence.
 __________________________________________________________________________________________________
