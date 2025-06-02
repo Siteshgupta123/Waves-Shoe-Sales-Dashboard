@@ -2,7 +2,7 @@
 
 https://github.com/user-attachments/assets/71bc73e9-418f-49d7-bb11-050279fbcccf
 
-
+## Project Overview:
 This interactive sales dashboard provides a comprehensive overview of the Waves Shoes performance across different states, categories, and shoe types. Built using Looker Studio, the dashboard helps decision-makers quickly understand key business metrics and drive data-informed decisions.
 __________________________________________________________________________________________________
 
