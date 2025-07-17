@@ -69,3 +69,13 @@ ________________________________________________________________________________
   - Line chart showing month-over-month growth.
   - Peak in March with ₹20.9M in sales.
 _________________________________________________________________________________________________
+## Thank You! 💙
+
+Thanks for checking out my project! If you found it useful, please consider:  
+[![GitHub stars](https://github.com/Siteshgupta123)] 
+⭐ **Starring** the repo  
+🐛 **Reporting** issues  
+🛠 **Contributing** improvements  
+
+Coded with ❤️ by **Sitesh Gupta**  
+🔗 www.linkedin.com/in/guptasitesh | 💌 Email-guptasitesh05@email.com
